@@ -1,4 +1,4 @@
-name = "PeriodicArray.jl"
+name = "BoundaryArray"
 uuid = "ef4d6cb4-0e50-4abb-b1f8-4689106d4272"
 authors = ["tbdrstl <the.kloeschen@gmail.com>"]
 version = "0.1.0"

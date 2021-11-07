@@ -1,4 +1,4 @@
-module PeriodicArray
+module BoundaryArray
 
 mutable struct PeriodicArray{T,N} <: AbstractArray{T,N}
     x :: AbstractArray{T,N}
