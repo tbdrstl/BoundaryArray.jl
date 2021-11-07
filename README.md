@@ -1,2 +1,2 @@
-# PeriodicArray.jl
-Package which implements AbstractArrays with periodic boundary conditions
+# BoundaryArray.jl
+Package which implements AbstractArrays with different boundary conditions.
